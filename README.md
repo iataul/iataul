@@ -1,6 +1,6 @@
 # Hi, I'm Ataul Islam
 
-Geology Undergraduate (Incoming)
+Geological Sciences Undergraduate (Incoming)
 
 Interests:
 - Computational Biology
@@ -13,7 +13,7 @@ Current Goals:
 - Learn Python
 - Learn Scientific Computing
 - Build Research Projects
-- Apply to IISc and International Research Programs
+- Gain Knowledge
 
 Projects:
 - Coming Soon
