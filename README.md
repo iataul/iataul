@@ -1,6 +1,6 @@
 # Hi, I'm Ataul Islam
 
-Physics Undergraduate (Incoming)
+Geology Undergraduate (Incoming)
 
 Interests:
 - Computational Biology
