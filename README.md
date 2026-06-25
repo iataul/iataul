@@ -81,8 +81,8 @@ Student developer building things with Python, Java, and the web — one project
 
 ### 04 — Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](<img src="https://skillicons.dev/icons?i=linkedin" width="40"/><br/>)](https://linkedin.com/in/aiataul)
+[![Email](<img src="https://skillicons.dev/icons?i=gmail" width="40"/><br/>)](mailto:mail.ataul.info@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@your--handle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-your--site.dev-534AB7?style=flat-square&logo=vercel&logoColor=white)](https://your-site.dev)
 
