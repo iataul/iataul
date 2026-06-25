@@ -1,51 +1,91 @@
-# Hey there, I'm Ataul Islam 👋
+<div align="left">
 
-> A curious novice stepping into the ocean of Knowledge ✨
+<sub>Open to learning & collaborating</sub>
 
-```
-Currently exploring: Python · Java · Scientific Computing · Web Dev 
-```
+# Hey, I'm<br>**your-username** 👋
 
----
+Student developer building things with Python, Java, and the web — one project at a time.
 
-## 🗣️ Languages & Frameworks
+![Status](https://img.shields.io/badge/Status-Currently%20Learning-1D9E75?style=flat-square&labelColor=0a0a0a)
+![Open to](https://img.shields.io/badge/Open%20to-Collaborations-534AB7?style=flat-square&labelColor=0a0a0a)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
 ---
 
-## 🛠️ Tools & IDEs
+### 01 — Languages & Frameworks
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>
+      <sub><b>Python</b></sub><br/>
+      <sub>Scripting · data</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>
+      <sub><b>Java</b></sub><br/>
+      <sub>OOP · backend</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>
+      <sub><b>Kotlin</b></sub><br/>
+      <sub>Android · JVM</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
+      <sub><b>HTML</b></sub><br/>
+      <sub>Markup · structure</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
+      <sub><b>CSS</b></sub><br/>
+      <sub>Styling · layout</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Stats & Activity
+### 02 — Tools & Environment
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 03 — Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=534AB7&bg_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=534AB7&bg_color=ffffff" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=534AB7" height="130"/>
 
 ---
 
-## 🤝 Connect with Me
+### 04 — Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiataul)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.ataul.info@gmail.com)
-[![CodeForces](https://miro.medium.com/1*iPZ00kImJY8oVioV5Dy75A.jpeg)](https://codeforces.com/profile/iataul))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@your--handle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.dev-534AB7?style=flat-square&logo=vercel&logoColor=white)](https://your-site.dev)
 
 ---
 
-<p align="center">
-  <i>"Every expert was once a beginner." — Keep building, keep learning. 🚀</i>
-</p>
+<sub>❤️ Every expert was once a beginner — keep shipping.</sub>
