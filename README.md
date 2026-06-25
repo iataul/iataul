@@ -70,17 +70,33 @@ Student developer building things with Python, Java, and the web — one project
 
 ### 03 — Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=534AB7&bg_color=ffffff" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=534AB7&bg_color=ffffff" height="150"/>
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=534AB7" height="130"/>
-
+[Coming Soon....]
 ---
 
 ### 04 — Connect with Me
 
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/aiataul">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="[https://x.com/AtaulIs19383914]">
+        <img src="https://skillicons.dev/icons?i=twitter" width="40"/><br/>
+        <sub><b> X.com / X</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:mail.ataul.info@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40"/><br/>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
