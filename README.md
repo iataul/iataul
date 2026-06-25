@@ -42,7 +42,7 @@ Currently exploring: Python · Java · Scientific Computing · Web Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiataul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.ataul.info@gmail.com)
-[![CodeForces](https://medium.com/@saifsweelam/getting-started-with-codeforces-as-a-python-developer-4c5ea6ad9f04)]([https://twitter.com/your-handle](https://codeforces.com/profile/iataul))
+[![CodeForces](https://miro.medium.com/1*iPZ00kImJY8oVioV5Dy75A.jpeg)](https://codeforces.com/profile/iataul))
 
 ---
 
