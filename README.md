@@ -84,8 +84,8 @@ Student developer building things with Python, Java, and the web — one project
       </a>
     </td>
     <td align="center" width="100">
-      <a href="[https://x.com/AtaulIs19383914]">
-        <img src="https://skillicons.dev/icons?i=twitter" width="40"/><br/>
+      <a href="https://instagram.com/_ataul.islam">
+        <img src="https://skillicons.dev/icons?i=instagram" width="40"/><br/>
         <sub><b> X.com / X</b></sub>
       </a>
     </td>
