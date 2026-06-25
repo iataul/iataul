@@ -1,9 +1,9 @@
-# Hey there, I'm [your-username] 👋
+# Hey there, I'm Ataul Islam 👋
 
-> A curious mind learning to build things with code ✨
+> A curious novice stepping into the ocean of Knowledge ✨
 
 ```
-Currently exploring: Python · Java · Web Dev
+Currently exploring: Python · Java · Scientific Computing · Web Dev 
 ```
 
 ---
@@ -12,7 +12,6 @@ Currently exploring: Python · Java · Web Dev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -41,9 +40,9 @@ Currently exploring: Python · Java · Web Dev
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiataul)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.ataul.info@gmail.com)
+[![CodeForces](https://medium.com/@saifsweelam/getting-started-with-codeforces-as-a-python-developer-4c5ea6ad9f04)]([https://twitter.com/your-handle](https://codeforces.com/profile/iataul))
 
 ---
 
