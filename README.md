@@ -2,9 +2,9 @@
 
 <sub>Open to learning & collaborating</sub>
 
-# Hey, I'm<br>**your-username** 👋
+# Hey, I'm<br>**Ataul Islam** 👋
 
-Student developer building things with Python, Java, and the web — one project at a time.
+I am an undergrad interested in Scientific Computing and Programming. Apart from Computers, I love the world of Geology and Astrophysics, analysing datasets and utilising them for my research.
 
 ![Status](https://img.shields.io/badge/Status-Currently%20Learning-1D9E75?style=flat-square&labelColor=0a0a0a)
 ![Open to](https://img.shields.io/badge/Open%20to-Collaborations-534AB7?style=flat-square&labelColor=0a0a0a)
