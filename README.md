@@ -28,11 +28,6 @@ I am an undergrad interested in Scientific Computing and Programming. Apart from
       <sub>OOP · backend</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>
-      <sub><b>Kotlin</b></sub><br/>
-      <sub>Android · JVM</sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
       <sub><b>HTML</b></sub><br/>
       <sub>Markup · structure</sub>
