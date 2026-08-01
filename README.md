@@ -37,6 +37,11 @@ I am an undergrad interested in Scientific Computing and Programming. Apart from
       <sub><b>CSS</b></sub><br/>
       <sub>Styling · layout</sub>
     </td>
+        <td align="center" width="120">
+      <img src="[https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg]" width="40"/><br/>
+      <sub><b>PyCharm</b></sub><br/>
+      <sub>Styling · layout</sub>
+    </td>
   </tr>
 </table>
 
